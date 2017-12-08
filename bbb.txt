@@ -1,0 +1,10 @@
+diff --git a/aaa.txt b/aaa.txt
+index 0915a93..06b0501 100644
+--- a/aaa.txt
++++ b/aaa.txt
+@@ -1,4 +1,3 @@
+ 사랑한다 말하면 이별이 올까봐~~
+ 
+-
+-말못하는 난 어떻게~
++sadsadasd
